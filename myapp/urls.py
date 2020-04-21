@@ -8,7 +8,7 @@ app_name = 'myapp'
 
 urlpatterns = [
 
-    path('home/', home, name='home'),
+    path('', home, name='home'),
 
     
     
